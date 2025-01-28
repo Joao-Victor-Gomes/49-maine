@@ -13,7 +13,7 @@ export default function Home() {
             A Taste of Maine, Made Just for You.
           </h1>
           <div className="m-auto w-full flex justify-center">
-            <p className="text-xs md:text-sm font-ppRegular">
+            <p className="text-sm font-ppRegular">
               49Maine is opening soon, blending local traditions with fresh,
               comforting <br className="hidden lg:flex" /> flavors in a space
               that feels like home. Whether it’s a family dinner or a night{" "}
